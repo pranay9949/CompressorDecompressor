@@ -17,5 +17,7 @@ UI of the Application
 
 
 
+
+
 <img width="376" alt="image" src="https://github.com/pranay9949/CompressorDecompressor/assets/139853595/9f6780aa-abbd-4c2f-a440-f64509c2bd5b">
 
