@@ -7,6 +7,7 @@ Tech Stack
 🔴 Java
 🔴 Swing
 🔴 AWT
+
 UI of the Application
 
 
